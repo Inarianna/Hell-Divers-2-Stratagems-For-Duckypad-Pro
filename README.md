@@ -5,7 +5,7 @@ Done.
 Use instructions:
 The HDHOME profile is used as the main hub for operations allowing: basic manual input of stratagems, dynamically setting up to 5 quick stratagem keys (4 regular and 1 bonus if aplicable), 6 catagorized stratagem catagories, 4 handy most often used mission stratagems.
 
-![Screenshot 2025-06-12 130949](https://github.com/user-attachments/assets/4c392557-8446-4d47-8700-b10a9afac4c3)
+<img width="341" alt="hdHome" src="https://github.com/user-attachments/assets/151c6923-6aef-429a-a6a7-2b796e8e9e28" />
 
 Basic use:
 Use CTRL, UP, LEFT, DOWN, RIGHT for manual stratagem recusition.
@@ -18,14 +18,15 @@ Setting dynamic stratagems:
 2. Select any one of the dynamic strats by pressing any of the "STRAT" keys a message will show on the screen press any key to dismiss.
 3. Use any of the catagory buttons to slect a subset of stratagems EXCEPT FOR MISSION STRATAGEMS currently these are not supported for rapid democracy deployment or RDD you will be redirected to a secondary profile.
 
-![Screenshot 2025-06-12 125026](https://github.com/user-attachments/assets/ea2765b1-bc7d-4f71-8691-9cc400b4dced)
+<img width="155" alt="HDCATOGORIES" src="https://github.com/user-attachments/assets/90592ffc-53c1-45a3-97b2-90f25aaef1b8" />
+
 
 4. Press the key of the specific stratagem you would like to dynamically assign, wait a few seconds to be returned to the Home profile.
 5. Repeat as neccassary for other stratagem slots
 
 Eagal Stratagem progile:
 
-![Screenshot 2025-06-12 141241](https://github.com/user-attachments/assets/74277ae6-a8a6-40f1-8018-536b9f76a3c8)
+<img width="232" alt="EagalStrats" src="https://github.com/user-attachments/assets/296711b9-1853-498e-af44-c042b33e47ee" />
 
 Orbital Stratagem profile:
 
@@ -45,6 +46,6 @@ Deffensive Stratagem profile:
 
 Backpack and vehicle profile:
 
-![Screenshot 2025-06-12 141303](https://github.com/user-attachments/assets/2a38c8d0-9789-4fdf-8b08-051bb1fe85e8)
+<img width="225" alt="BackpackAndExoStrats" src="https://github.com/user-attachments/assets/160d52aa-ad75-4b24-99d4-27f2332e196d" />
 
 
