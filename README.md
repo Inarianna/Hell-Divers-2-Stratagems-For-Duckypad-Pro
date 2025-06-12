@@ -4,6 +4,7 @@ Done.
 
 Use instructions:
 The HDHOME profile is used as the main hub for operations allowing: basic manual input of stratagems, dynamically setting up to 5 quick stratagem keys (4 regular and 1 bonus if aplicable), 6 catagorized stratagem catagories, 4 handy most often used mission stratagems.
+
 ![Screenshot 2025-06-12 130949](https://github.com/user-attachments/assets/4c392557-8446-4d47-8700-b10a9afac4c3)
 
 Basic use:
