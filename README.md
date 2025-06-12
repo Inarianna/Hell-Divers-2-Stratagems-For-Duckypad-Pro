@@ -16,7 +16,7 @@ Each secondary profile's top left key is used to return to the Home or Hub Profi
 Setting dynamic stratagems:
 1. Press "SPROG" this will clear any dynamic stratagems and prime them for encoding wait 3 seconds for duckypad to refresh and return to its default state. As a note this also sets the delay between key strokes when using any and all stratagems across all profiles this can be adjusted by editing the value of $_GV0
 2. Select any one of the dynamic strats by pressing any of the "STRAT" keys a message will show on the screen press any key to dismiss.
-3. Use any of the catagory buttons to slect a subset of stratagems EXCEPT FOR MISSION STRATAGEMS currently these are not supported for rapid democracy deployment or RDD you will be redirected to a secondary profile.
+3. Use any of the catagory buttons to slect a subset of stratagems EXCEPT FOR MISSION STRATAGEMS currently these are not supported for rapid democracy deployment(RDD) you will be redirected to a secondary profile.
 
 <img width="155" alt="HDCATOGORIES" src="https://github.com/user-attachments/assets/90592ffc-53c1-45a3-97b2-90f25aaef1b8" />
 
